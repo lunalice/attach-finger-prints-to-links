@@ -12,8 +12,8 @@ Add aaa to A's attribute
 ```
 <html>
   <head>
-    <script src="fingerprint2.js"></script>
-    <script src="ua-parser.js"></script>
+    <script src="fingerprint2.js"></script> # Find the latest
+    <script src="ua-parser.js"></script> # Find the latest
     <script src="sendfingerprintfromlink.js"></script>
   </head>
   <body>
